@@ -20,7 +20,7 @@ const NavBar = () => {
                 <a href="#hero"
                 className="logo"
                 >
-                    Robin | JSM
+                    Robin Singh
                 </a>
 
                 <nav className="desktop">
